@@ -1,0 +1,1 @@
+This a repository for a medium series describing how to setup up a Typescript Turborepo that includes the AWS CDK.
